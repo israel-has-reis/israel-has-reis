@@ -10,16 +10,6 @@
 
 ###
 
-<h2 align="left">Midia social</h2>
-
-###
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-araujo-6917152a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israel-has-reis)
-[![Gmail Badge](https://img.shields.io/badge/-israel.has.reis@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:israel.has.reis@gmail.com)](mailto:israel.has.reis@gmail.com)
-
-###
-
 <h2 align="left">Ferramentas</h2>
 
 ###
@@ -32,3 +22,20 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://github.com/cristianeasreis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-has-reis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israel-has-reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+###
+
+<h2 align="left">Midia social</h2>
+
+###
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-araujo-4a6b131a3/)](https://www.linkedin.com/in/israel-araujo-4a6b131a3/)
+[![Gmail Badge](https://img.shields.io/badge/-israel.has.reis@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:israel.has.reis@gmail.com)](mailto:israel.has.reis@gmail.com)
