@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-araujo-6917152a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israel-has-reis)
-[![Gmail Badge](https://img.shields.io/badge/-israel.has.reis@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:israel.has.reis@gmail.com)](mailto:israel.has,reis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-israel.has.reis@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:israel.has.reis@gmail.com)](mailto:israel.has.reis@gmail.com)
 
 ###
 
