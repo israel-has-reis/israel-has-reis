@@ -37,5 +37,5 @@
 
 ###
 
- [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-araujo-4a6b131a3/)](https://www.linkedin.com/in/israel-araujo-4a6b131a3/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Israel-Araujo-4a6b131a3/)](https://www.linkedin.com/in/Israel-Araujo-6917152a4/)
 [![Gmail Badge](https://img.shields.io/badge/-israel.has.reis@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:israel.has.reis@gmail.com)](mailto:israel.has.reis@gmail.com)
